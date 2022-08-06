@@ -360,3 +360,19 @@ button.button-large{
 
 
 }
+
+@media (max-width:450px){
+
+  .hero{
+    top:20%;
+  }
+
+  .hero-heading{
+    font-size:200%;
+  
+  }
+  .hero-description{
+
+    font-size:13px;
+  }
+}

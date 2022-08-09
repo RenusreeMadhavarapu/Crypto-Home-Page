@@ -20,7 +20,7 @@
 - Media Queries
 
 ### Project Deploy Link
-[SEOHome](https://cryptotokenpage.netlify.app/)
+[CryptoHome](https://cryptotokenpage.netlify.app/)
 
 ### Author
 [Renusree Madhavarapu](https://github.com/RenusreeMadhavarapu)

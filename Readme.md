@@ -8,8 +8,8 @@
 
 
 ![smallcryptopage1](https://user-images.githubusercontent.com/110158807/183577554-4c31ba64-c15f-4f79-84b9-c496aef43ba1.png)
-![cryptoimg2](https://user-images.githubusercontent.com/110158807/183577612-f605bb3f-d15a-499c-81f8-f05b344e1aa8.png)
 
+![gitcrypto2](https://user-images.githubusercontent.com/110158807/184349021-ad34bd37-36e3-4ea5-b235-1fcde55f2da9.png)
 
 
 

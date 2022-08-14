@@ -7,9 +7,10 @@
 ## Screenshots
 
 
-![smallcryptopage1](https://user-images.githubusercontent.com/110158807/183577554-4c31ba64-c15f-4f79-84b9-c496aef43ba1.png)
+![Screenshot 2022-08-14 at 10-20-51 Cryto Landing Page](https://user-images.githubusercontent.com/110158807/184523077-b3ea6c10-c90d-44f8-aac6-e3505d587ca6.png)
 
-![gitcrypto2](https://user-images.githubusercontent.com/110158807/184349021-ad34bd37-36e3-4ea5-b235-1fcde55f2da9.png)
+
+![gitcrp4](https://user-images.githubusercontent.com/110158807/184523064-5bfba01d-256a-4437-bedc-20666d25bd06.png)
 
 
 
